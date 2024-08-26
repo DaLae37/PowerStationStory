@@ -1,6 +1,6 @@
 # PowerStationStory
 
-![메인](images/powerstationstory.webp)
+![메인](Images/powerstationstory.webp)
 
 # 개발 엔진
 
@@ -10,4 +10,4 @@
 
 [유튜브](https://youtu.be/Zqt2cX6rHlg)
 
-[파일]()
+[파일](https://github.com/DaLae37/PowerStationStory/releases/download/v1.0.0/powerstationstory.pdf)
